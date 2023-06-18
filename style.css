@@ -1,0 +1,73 @@
+.bg-custom {
+      background-color: #D9D9D9;
+    }
+
+    .custom-button {
+      background-color: #FF6464;
+      color: #fff;
+      border: none;
+      padding: 0.5rem 1rem;
+      border-radius: 0.25rem;
+    }
+     
+
+    .bg-custom {
+      background-color: #D9D9D9;
+      border-radius: 7px;
+    }
+
+    .custom-button {
+      background-color: #FF6464;
+      color: #fff;
+      border: none;
+      padding: 0.2rem 0.5rem;
+      border-radius: 0.2rem;
+    }
+
+    .content {
+      margin: 20px;
+    }
+
+    .row {
+      display: flex;
+      flex-wrap: wrap;
+    }
+
+    .col-lg-6 {
+      flex: 10 50 50%;
+      max-width: 50%;
+      padding: 50px;
+    }
+
+    .content h2 {
+      margin-bottom: 15px;
+      font-size: 40px;
+    }
+
+    .content p {
+      margin-bottom: 15px;
+    }
+
+    .content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+    }
+    .col-lg-6 .text-content {
+      text-align: right;
+    }
+
+    .download-btn {
+      text-align: left;
+      margin-top: 10px;
+    }
+
+    .btn-primary {
+      background-color: #FF6464;
+      border-color: #FF6464;
+    }
+
+    .btn-primary:hover {
+      background-color: #FF4F4F;
+      border-color: #FF4F4F;
+    }
